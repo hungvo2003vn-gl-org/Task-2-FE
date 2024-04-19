@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hungvo2003vn-gl-org/Task-2-FE/static/css/main.960f048e.css",
-    "main.js": "/hungvo2003vn-gl-org/Task-2-FE/static/js/main.dbb365f6.js",
-    "index.html": "/hungvo2003vn-gl-org/Task-2-FE/index.html",
-    "main.960f048e.css.map": "/hungvo2003vn-gl-org/Task-2-FE/static/css/main.960f048e.css.map",
-    "main.dbb365f6.js.map": "/hungvo2003vn-gl-org/Task-2-FE/static/js/main.dbb365f6.js.map"
+    "main.css": "/Task-2-FE/static/css/main.960f048e.css",
+    "main.js": "/Task-2-FE/static/js/main.dbb365f6.js",
+    "index.html": "/Task-2-FE/index.html",
+    "main.960f048e.css.map": "/Task-2-FE/static/css/main.960f048e.css.map",
+    "main.dbb365f6.js.map": "/Task-2-FE/static/js/main.dbb365f6.js.map"
   },
   "entrypoints": [
     "static/css/main.960f048e.css",
