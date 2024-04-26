@@ -1,7 +1,7 @@
 {
-  "homepage": "https://hungvo2003vn-gl-org.github.io",
   "name": "frontend-v1",
   "version": "0.1.0",
+  "homepage": "https://hungvo2003vn-gl-org.github.io/Task-2-FE/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

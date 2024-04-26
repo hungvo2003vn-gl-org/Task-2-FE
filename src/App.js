@@ -29,7 +29,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename='/Task-2-FE'>
       <Routes>
 
         <Route path="/" element={loggedIn ? <HomePage onLogout={handleLogout} /> : <LoginPage onLogin={handleLogin} />} />

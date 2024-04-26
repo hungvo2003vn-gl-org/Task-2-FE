@@ -36,5 +36,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Deployed website
 ```
-https://task-2-fe.onrender.com/
+https://hungvo2003vn-gl-org.github.io/Task-2-FE/
 ```
